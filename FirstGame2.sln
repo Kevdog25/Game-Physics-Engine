@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstGame2", "FirstGame2\FirstGame2\FirstGame2.csproj", "{9FC76126-5FC3-41BB-BF39-E0BB44BF3DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstGame2Content", "FirstGame2\FirstGame2Content\FirstGame2Content.contentproj", "{49016563-0823-4C88-886F-04109F7DBFB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC76126-5FC3-41BB-BF39-E0BB44BF3DD2}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9FC76126-5FC3-41BB-BF39-E0BB44BF3DD2}.Debug|Any CPU.Build.0 = Debug|x86
+		{9FC76126-5FC3-41BB-BF39-E0BB44BF3DD2}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9FC76126-5FC3-41BB-BF39-E0BB44BF3DD2}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9FC76126-5FC3-41BB-BF39-E0BB44BF3DD2}.Debug|x86.ActiveCfg = Debug|x86
+		{9FC76126-5FC3-41BB-BF39-E0BB44BF3DD2}.Debug|x86.Build.0 = Debug|x86
+		{9FC76126-5FC3-41BB-BF39-E0BB44BF3DD2}.Release|Any CPU.ActiveCfg = Release|x86
+		{9FC76126-5FC3-41BB-BF39-E0BB44BF3DD2}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9FC76126-5FC3-41BB-BF39-E0BB44BF3DD2}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9FC76126-5FC3-41BB-BF39-E0BB44BF3DD2}.Release|x86.ActiveCfg = Release|x86
+		{9FC76126-5FC3-41BB-BF39-E0BB44BF3DD2}.Release|x86.Build.0 = Release|x86
+		{49016563-0823-4C88-886F-04109F7DBFB6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{49016563-0823-4C88-886F-04109F7DBFB6}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{49016563-0823-4C88-886F-04109F7DBFB6}.Debug|x86.ActiveCfg = Debug|x86
+		{49016563-0823-4C88-886F-04109F7DBFB6}.Release|Any CPU.ActiveCfg = Release|x86
+		{49016563-0823-4C88-886F-04109F7DBFB6}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{49016563-0823-4C88-886F-04109F7DBFB6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

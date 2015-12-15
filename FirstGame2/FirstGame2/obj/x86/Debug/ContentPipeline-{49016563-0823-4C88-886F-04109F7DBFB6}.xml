@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\untitled.fbx</Source>
+      <Name>Models\ball</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\bin\x86\Debug\Content\Models\ball.xnb</Output>
+      <Time>2014-09-02T17:29:52.2294927-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\obj\x86\Debug\Models\untitled_0.xml</Key>
+        <Value>2015-11-22T17:03:13.2410885-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\plane.fbx</Source>
+      <Name>Models\plane</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationX">-90</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\bin\x86\Debug\Content\Models\plane.xnb</Output>
+      <Time>2014-09-07T12:31:36.7354918-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\obj\x86\Debug\Models\plane_0.xml</Key>
+        <Value>2015-11-22T17:03:13.4112031-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ball_large.fbx</Source>
+      <Name>Models\ball_large</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">5</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\bin\x86\Debug\Content\Models\ball_large.xnb</Output>
+      <Time>2014-12-17T12:19:15.9740748-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\obj\x86\Debug\Models\ball_large_0.xml</Key>
+        <Value>2015-11-22T17:03:13.5242777-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2014-09-02T22:52:58.3558281-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bad_disk_x.wav</Source>
+      <Name>Sounds\bad_disk_x</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\bin\x86\Debug\Content\Sounds\bad_disk_x.xnb</Output>
+      <Time>2014-12-05T22:42:43.4205658-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\boing_x.wav</Source>
+      <Name>Sounds\boing_x</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\bin\x86\Debug\Content\Sounds\boing_x.xnb</Output>
+      <Time>2014-12-05T22:51:17.9279901-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\baby_cry.wav</Source>
+      <Name>Sounds\baby_cry</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\bin\x86\Debug\Content\Sounds\baby_cry.xnb</Output>
+      <Time>2014-12-13T20:14:03.9790336-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\boing_spring.wav</Source>
+      <Name>Sounds\boing_spring</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\bin\x86\Debug\Content\Sounds\boing_spring.xnb</Output>
+      <Time>2014-12-13T21:35:53.6088366-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\untitled.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\obj\x86\Debug\Models\untitled_0.xml</Output>
+      <Time>2014-09-02T17:29:52.2294927-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\plane.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\obj\x86\Debug\Models\plane_0.xml</Output>
+      <Time>2014-09-07T12:31:36.7354918-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_large.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\obj\x86\Debug\Models\ball_large_0.xml</Output>
+      <Time>2014-12-17T12:19:15.9740748-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{49016563-0823-4C88-886F-04109F7DBFB6}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-22T16:52:40.0892985-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

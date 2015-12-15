@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Plane</Name>
+    <Identity>
+      <SourceFilename>C:\Users\Kevin\Documents\Visual Studio 2013\Projects\FirstGame2\FirstGame2\FirstGame2Content\Models\plane.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>8.238827 0 0 0 0 8.238827 0 0 0 0 8.238827 0 0.033469446 0 0 1</Transform>
+    <Positions>1 1 0 1 -1 0 -1 -1 0 -1 1 0</Positions>
+    <Geometry>
+      <Batch>
+        <Indices>2 1 0 0 3 2</Indices>
+        <Vertices>
+          <PositionIndices>0 3 2 1</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 0.9999695 0 0 1 0 0 1 0 0 1</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+</XnaContent>
